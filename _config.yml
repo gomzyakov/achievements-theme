@@ -1,8 +1,8 @@
-title: Полный список значков и достижений на GitHub
-description: Полный список значков и достижений на GitHub
+title: Jekyll theme for Github Profile Achievements repositories
+description: Jekyll theme for Github Profile Achievements repositories
 permalinks: pretty
 
-lang: ru
+lang: en
 logo_url: https://avatars.githubusercontent.com/u/117988194?s=200&v=4
 
 include:
@@ -28,7 +28,6 @@ license:
 
 # Add a custom copyright message
 # copyright: Foundation for Public Code
-
 
 defaults:
   -
