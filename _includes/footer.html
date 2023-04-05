@@ -6,7 +6,9 @@
         Эта страница на GitHub
     </a>
 </div>
+{% endif %}
 
+{% if site.github %}
 <section class="mt-4">
     <p>
         Эта страница была в последний раз обновлена {{ site.time | date_to_long_string }}
