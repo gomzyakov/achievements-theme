@@ -18,7 +18,8 @@ h2 {
 }
 
 table {
-    max-width: 100% !important;
-    border: 1px solid #777 !important;
-    border-radius: 8px !important;
+    width: 100% !important;
+    border: 1px solid rgb(222, 226, 230) !important;
+    margin-bottom: 1rem !important;
+    vertical-align: top ;
 }
