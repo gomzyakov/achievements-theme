@@ -1,0 +1,26 @@
+<div class="container-fluid">
+    <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom">
+        <div class="col-md-3 mb-2 mb-md-0">
+            <a href="{{ site.url }}" class="d-inline-flex link-body-emphasis text-decoration-none">
+                <img src="{{ site.logo_url }}" class="rounded" alt="{{ site.description }}" width="32" height="32">
+            </a>
+        </div>
+
+        <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
+            <li>
+                <span class="navbar-text">{{ site.navbar_text }}</span>
+            </li>
+        </ul>
+
+        <div class="col-md-3 text-end">
+            {% if site.github %}
+                <a class="btn btn-outline-primary" role="button" href="{{ site.github.repository_url }}">
+                    This page on GitHub
+                </a>
+            {% endif %}
+        </div>
+    </header>
+</div>
+
+{% comment %} bg-body-tertiary {% endcomment %}
+
