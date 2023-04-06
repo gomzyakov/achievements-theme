@@ -18,7 +18,7 @@ h2 {
 }
 
 table {
-    max-width: 100%;
-    border: 1px solid #777;
-    border-radius: 8px;
+    max-width: 100% !important;
+    border: 1px solid #777 !important;
+    border-radius: 8px !important;
 }
