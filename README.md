@@ -8,7 +8,7 @@ Used for all repositories in the organization [Github Profile Achievements](http
 
 <br>
 
-# Examples of using
+## Examples of using
 
 Markdown tables:
 
@@ -29,6 +29,7 @@ Markdown tables:
 [gb-b]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png
 [gb-s]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png
 [gb-g]: https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png
+
 
 HTML-tables:
 

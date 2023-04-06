@@ -16,3 +16,9 @@ h1 {
 h2 {
     margin-bottom: 24px;
 }
+
+table {
+    max-width: 100%;
+    border: 1px solid #777;
+    border-radius: 8px;
+}
