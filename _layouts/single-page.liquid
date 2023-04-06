@@ -4,11 +4,7 @@ layout: site
 
 <div class="container mt-5 mb-5">
     <div class="row">
-        <div class="col-lg-8">
-            {% if page.show_prev_next %}
-                {% include prev_next.liquid %}
-            {% endif %}
-
+        <div class="col-lg-8 align-self-center">
             {% if site.titles_from_headings.strip_title == true %}
                 <h1>{{ page.title | default: post.title }}</h1>
             {% endif %}
