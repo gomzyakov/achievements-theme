@@ -45,3 +45,5 @@ defaults:
 
 titles_from_headings:
   strip_title: true
+
+syntax_highlighter: rouge
