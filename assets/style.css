@@ -24,3 +24,7 @@ table {
     margin-bottom: 1rem !important;
     vertical-align: top !important;
 }
+
+table tbody tr td img {
+    max-width: 100% !important;
+}
