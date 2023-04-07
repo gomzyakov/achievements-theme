@@ -20,6 +20,11 @@ table {
     vertical-align: top !important;
 }
 
+table thead tr td {
+    border: 1px solid rgb(222, 226, 230) !important;
+    padding: 0.5rem 0.5rem !important;
+}
+
 table tbody tr td {
     border: 1px solid rgb(222, 226, 230) !important;
     padding: 0.5rem 0.5rem !important;
