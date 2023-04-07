@@ -1,23 +1,23 @@
-<div class="container-fluid">
-    <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom bg-body-tertiary">
-        <div class="col-md-3 mb-2 mb-md-0">
-            <a href="{{ site.url }}" class="d-inline-flex link-body-emphasis text-decoration-none">
+<header class="p-3 mb-3 border-bottom bg-body-tertiary">
+    <div class="container">
+        <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
+            <a href="{{ site.url }}"
+               class="d-flex align-items-center mb-2 mb-lg-0 link-body-emphasis text-decoration-none">
                 <img src="{{ site.logo_url }}" class="rounded" alt="{{ site.description }}" width="32" height="32">
             </a>
-        </div>
 
-        <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
-            <li>
-                <span class="navbar-text">{{ site.navbar_text }}</span>
-            </li>
-        </ul>
+            <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
+                <li><a href="#" class="nav-link px-2 link-secondary">На других языках</a></li>
+                <li><a href="#" class="nav-link px-2 link-secondary">Контакты</a></li>
+            </ul>
 
-        <div class="col-md-3 text-end">
-            {% if site.github %}
-                <a class="btn btn-outline-primary" role="button" href="{{ site.github.repository_url }}">
-                    This page on GitHub
-                </a>
-            {% endif %}
+            <div class="col-lg-auto text-end">
+                {% if site.github %}
+                    <a class="btn btn-outline-primary" role="button" href="{{ site.github.repository_url }}">
+                        This page on GitHub
+                    </a>
+                {% endif %}
+            </div>
         </div>
-    </header>
-</div>
+    </div>
+</header>
