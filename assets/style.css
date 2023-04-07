@@ -31,5 +31,5 @@ table tbody tr td {
 }
 
 table tbody tr td img {
-    max-width: 100px !important;
+    max-width: 100px !important; /** or 100% **/
 }
