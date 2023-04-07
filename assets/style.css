@@ -20,7 +20,7 @@ table {
     vertical-align: top !important;
 }
 
-table thead tr td {
+table thead tr th {
     border: 1px solid rgb(222, 226, 230) !important;
     padding: 0.5rem 0.5rem !important;
 }
