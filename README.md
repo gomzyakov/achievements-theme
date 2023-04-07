@@ -8,9 +8,9 @@ Used for all repositories in the organization [Github Profile Achievements](http
 
 <br>
 
-## Examples of using
+## Examples of Markdown
 
-Markdown tables:
+Tables:
 
 | Achievement      |     Default     |  Bronze   |   Silver   |    Gold    |
 |------------------|:---------------:|:---------:|:----------:|:----------:|
