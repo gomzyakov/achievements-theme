@@ -1,6 +1,7 @@
 # Text for `site.*`
 title: Jekyll theme for one-page documentation in README.md
 description: Jekyll theme for one-page documentation in README.md
+navbar_text: GitHub profile achievements in other languages
 lang: en
 logo_url: https://avatars.githubusercontent.com/u/117988194?s=200&v=4
 
