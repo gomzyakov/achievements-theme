@@ -1,10 +1,10 @@
-# Jekyll theme for one-page documentation in README.md
+# Jekyll theme for one-page README.md
 
-Simple and clear Jekyll theme for one-page documentation generated from a file [README.md](https://github.com/github-profile-achievements/jekyll-theme/blob/main/README.md).
+Simple and clear Jekyll theme for one-page sites generated from a [README.md](https://github.com/github-profile-achievements/jekyll-theme/blob/main/README.md) file.
 
 Used for all repositories in the organization [Github Profile Achievements](https://github.com/github-profile-achievements).
 
-[//]: # (TODO Add image)
+![](achievements.png)
 
 <br>
 
