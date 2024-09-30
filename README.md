@@ -5,6 +5,6 @@ Simple and clear Jekyll theme for one-page sites generated from a [README.md](ht
 > [!WARNING]  
 > The theme is specifically adapted for the project https://github.com/gomzyakov/achievements
 
-![Jekyll theme for achievements repository](achievements.png)
+<img src="achievements.png" alt="Jekyll theme for achievements repository" width="700">
 
 You can see an example of a rendered MD file [here](https://gomzyakov.github.io/achievements/).
