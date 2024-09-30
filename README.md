@@ -4,7 +4,7 @@ Simple and clear Jekyll theme for one-page sites generated from a [README.md](ht
 
 Used for all repositories in the organization [Github Profile Achievements](https://github.com/github-profile-achievements).
 
-![](achievements.png)
+![Jekyll theme for one-page README.md](achievements.png)
 
 <br>
 
