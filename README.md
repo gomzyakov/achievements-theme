@@ -9,8 +9,6 @@ Simple and clear Jekyll theme for one-page sites generated from a [README.md](ht
 
 You can see an example of a rendered MD file [here](https://gomzyakov.github.io/achievements/).
 
-### ddd
-
 <pre>
 ---
 description: Jekyll theme for one-page documentation in README.md

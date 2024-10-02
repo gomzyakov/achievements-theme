@@ -3,7 +3,7 @@
         <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
             <a href="{{ site.url }}"
                class="d-flex align-items-center me-2 mb-2 mb-lg-0 link-body-emphasis text-decoration-none">
-                <img src="{{ site.logo_url }}" class="rounded" alt="{{ site.description }}" width="32" height="32">
+                <img src="{{ site.logo_url }}" class="rounded" alt="{{ page.h1[0] | default: site.title }}" width="32" height="32">
             </a>
 
             <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
