@@ -1,9 +1,5 @@
 {
-    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-    "extends": [
-        "config:recommended",
-        ":disableDependencyDashboard"
-    ],
+    "extends": ["config:recommended", ":disableDependencyDashboard"],
     "schedule": [
         "on the first day of the month"
     ]
